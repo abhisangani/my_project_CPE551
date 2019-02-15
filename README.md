@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is my individual EE551 Python project for Spring 2019 term
+This project is my individual EE551 Python project for Spring 2019 term.
 
 ## Proposal
 
