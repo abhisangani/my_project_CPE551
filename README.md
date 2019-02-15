@@ -1,4 +1,4 @@
-# Credit Card Transactions Fraud Detection System
+# Credit Card Transaction Fraud Detection System
 
 ## Introduction
 
