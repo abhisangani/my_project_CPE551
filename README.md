@@ -26,6 +26,6 @@ Abhishek Sangani
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. For more information, see the [LICENSE](LICENSE.md). file for details.
+This project is licensed under the GNU General Public License v3.0. For more information, see the [LICENSE](LICENSE.md) file for details.
 
 
