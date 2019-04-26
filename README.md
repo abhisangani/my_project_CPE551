@@ -1,26 +1,26 @@
 # Credit Card Transaction Fraud Detection System
 
-## Introduction
+## *Introduction*
 
 This project is my individual EE551 Python project for Spring 2019 term.
 
-## Proposal
+## *Proposal*
 
 This system will help in detecting fraud/fake credit card transactions using Naive Bayes classifier.
 
-## Features
+## *Features*
 
 - The system will analyze a data which will consist of hundreds of thousands of credit card transactions.
 - Based on the analysis, the system will be able to detect fraud/fake transactions.
 
-## To-Do
+## *To-Do*
 
 - Import the data using pandas.
 - Convert all the input features into some other features using PCA.
 - Plot graph of fraud transactions and genuine transactions.
 - Train the classifier to detect fraud points from the graphs.
 
-## Project Explanation
+## *Project Explanation*
 
 - Firstly, I imported all the necessary libraries.
 - Secondly, I imported the dataset from the creditcard.csv file using pandas dataframe.
@@ -31,12 +31,10 @@ This system will help in detecting fraud/fake credit card transactions using Nai
 - So, I had to remove some of the features from the dataset which were not helping the system in distinguishing between Fair and Fraud transactions.
 - Again training the system with the new dataset, I found the system to be more accurate than with the previous dataset.
 
-## Author
+## *Author*
 
 Abhishek Sangani
 
-## License
+## *License*
 
 This project is licensed under the GNU General Public License v3.0. For more information, see the [LICENSE](LICENSE.md) file for details.
-
-
