@@ -25,8 +25,8 @@ This system will help in detecting fraud/fake credit card transactions using Nai
 - Firstly, I imported all the necessary libraries.
 - Secondly, I imported the dataset from the creditcard.csv file using pandas dataframe.
 - Then, I visualised the data and found that the data was highly unbalanced because there were less than 1% of fraud transactions in the whole dataset.
-- Then, I plot the KDE (Kernel Density Estimate) for every column of the dataset.
-- Then, using the sklearn.preprocessing package, I classified the dataset into traing dataset and testing dataset.
+- Then, I plot the KDE (Kernel Density Estimate) for every feature of the dataset.
+- Then, using the sklearn.preprocessing package, I classified the dataset into training dataset and testing dataset.
 - After training the system with the dataset, I found it to be not of much accuracy.
 _ So, I had to remove some of the features from the dataset which were not helping the system in distinguishing between Fair and Fraud transactions.
 - Again training the system with the new dataset, I found the system to be more accurate than with the previous dataset.
